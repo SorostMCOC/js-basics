@@ -1,0 +1,10 @@
+let a = 6;
+let b = 9;
+console.log(a < b);
+console.log(a > b);
+console.log(a > 100);
+console.log(a < a);
+console.log(a <= 6);
+console.log(b == a * 1.5);
+console.log( "2" === 2 );
+console.log(a != b);
